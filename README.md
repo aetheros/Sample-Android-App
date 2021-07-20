@@ -1,2 +1,2 @@
-# sdk
-Repository for AOS SDK
+# Sample Android App
+
